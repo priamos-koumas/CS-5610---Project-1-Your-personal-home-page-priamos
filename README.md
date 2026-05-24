@@ -58,9 +58,8 @@ Instructor: John Alexis Guerra Gomez
 **How it was used:**
 - Generated the Resume page (`resume.html`) layout and content structure
 - Assisted with glassmorphism CSS effects for navbar and cards
-- Helped debug HTML structure and rubric compliance
+- Helped debug HTML structure
 - Answered questions about CSS syntax, naming conventions, and best practices
-- Explained when to use absolute vs relative CSS units (px, em, rem, vh, vw)
 - Advised on CSS class naming conventions and how to structure selectors
 - Explained CSS measurement units and when to use each one
 - Clarified CSS property syntax and how to properly format declarations
@@ -81,8 +80,6 @@ Instructor: John Alexis Guerra Gomez
 - "How do I better integrate a glassmorphism navbar effect in CSS?"
 - "How do I better integrate a full width background image using CSS with object-fit cover?"
 - "How do I better integrate a nav link underline hover animation in CSS?"
-- "How do I play Greek bouzouki music when a Bootstrap accordion item opens using JavaScript?"
-- "Help me fix my HTML rubric compliance issues including meta tags, favicon, and script tag placement"
 - "What is the best practice to naming CSS classes to keep them organized and readable?"
 - "What is the correct syntax for CSS media queries and Bootstrap breakpoints?"
 - "How do I properly structure a CSS file with comments and sections?"
