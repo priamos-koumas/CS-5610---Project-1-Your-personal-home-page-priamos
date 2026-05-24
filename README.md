@@ -44,7 +44,7 @@ npx http-server
 
 ## Author
 **Priamos Koumas**
-[Live Site](https://priamos-koumas.github.io/CS-5610---Project-1-Your-personal-home-page)
+[Live Site](https://priamos-koumas.github.io/CS-5610---Project-1-Your-personal-home-page-priamos/)
 
 ## Class Reference
 CS 5610 Web Development — Northeastern University
