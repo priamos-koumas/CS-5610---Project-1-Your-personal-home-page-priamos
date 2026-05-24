@@ -6,7 +6,7 @@ https://www.w3schools.com/html/html5_audio.asp
 
 const qaAccordion = document.querySelector("#collapseSix");
 if (qaAccordion) {
-  const qaMusic = new Audio("music/bouziki.mp3");
+  const qaMusic = new Audio("music/bouzouki.mp3");
   
   qaAccordion.addEventListener("show.bs.collapse", () => {
     qaMusic.play();
