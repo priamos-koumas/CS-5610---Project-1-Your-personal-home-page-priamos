@@ -7,8 +7,17 @@ A personal homepage built using vanilla HTML5, CSS3, and ES6+ JavaScript. The si
 ## Screenshot/Thumbnail
 https://raw.githubusercontent.com/priamos-koumas/CS-5610---Project-1-Your-personal-home-page-priamos/main/images/thumbnail.png
 
-## Live Demo
-[View Live Site](https://priamos-koumas.github.io/CS-5610---Project-1-Your-personal-home-page-priamos)
+## Google Slides
+https://docs.google.com/presentation/d/18Rs1KpsXaeNgYf46H4lhvZBuOpFLPNcPkmPtsTHdXtI/edit?usp=sharing
+
+## Slide Video Presentation
+https://drive.google.com/file/d/1Jn2QDP-SIU0Rj4wgZhV60mBFs68rg7az/view?usp=sharing
+
+## Live Video Demo
+https://drive.google.com/file/d/1sFgXlYsmGUFtNgmNGyqMc-c4BHXn3XiX/view?usp=sharing
+
+## Live Site
+https://priamos-koumas.github.io/CS-5610---Project-1-Your-personal-home-page-priamos
 
 ## Pages
 - **Home** — Welcome page with Greek philosopher background
