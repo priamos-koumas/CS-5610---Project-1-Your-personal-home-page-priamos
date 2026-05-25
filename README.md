@@ -35,7 +35,7 @@ https://priamos-koumas.github.io/CS-5610---Project-1-Your-personal-home-page-pri
 ## How to Install/Use
 1. Clone the repository:
 ```bash
-git clone https://github.com/priamos-koumas/CS-5610---Project-1-Your-personal-home-page.git
+git clone https://github.com/priamos-koumas/CS-5610---Project-1-Your-personal-home-page-priamos.git
 ```
 2. Navigate to the project folder:
 ```bash
@@ -104,8 +104,6 @@ Instructor: John Alexis Guerra Gomez
   https://getbootstrap.com/docs/5.0/components/accordion/
 - Bootstrap Documentation
   https://getbootstrap.com/docs/5.3/
-- Bootstrap Accordion & Collapse Events
-  https://getbootstrap.com/docs/5.0/components/accordion/
 
 **Glassmorphism Effect:**
 - Stack Overflow — Glassmorphic Navbar
